@@ -89,11 +89,11 @@ The dashboard was designed to be **clean, modern, and easy to interpret**.
 
 Chicago-Food-Inspections-Dashboard/
 │
-├── data/
-│   └── Food_Inspections_pvt_sample.xlsx (Google Drive Link)
+├── Dataset/
+│   └── README - Food_Inspections_pvt_sample.xlsx (Google Drive Link)
 │
-├── dashboard/
-│   ├── Food_Inspections_Dashboard.pbix           (Google Drive Link)
+├── Dashboard/
+│   ├── README - Food_Inspections_Dashboard.pbix           (Google Drive Link)
 │   ├── Food_Inspections_Dashboard.pdf            Export estático
 │   ├── Food_Inspections_Dashboard_Filter.pdf     Export estático with filters
 │   └── ChicagoFoodInspectionsDashboardGif.gif    Demo gif
@@ -109,7 +109,7 @@ Chicago-Food-Inspections-Dashboard/
 1. Open `Food_Inspections_pvt.xlsx` in Excel to see the cleaned dataset.  
 2. Open `Food_Inspections_Dashboard.pbix` in Power BI for the interactive dashboard.  
 3. Check `Food_Inspections_Dashboard.pdf` and `Food_Inspections_Dashboard_Filter.pdf` for a static version.
-4. Watch `demo.gif` for a quick preview.  
+4. Watch `ChicagoFoodInspectionsDashboardGif.gif` for a quick preview.  
 
 ---
 
