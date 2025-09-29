@@ -1,0 +1,6 @@
+## 🗂️ Dataset
+
+Due to GitHub file size limitations, the cleaned dataset (Food_Inspections_pvt.xlsx, ~169 MB) is hosted on Google Drive. A direct sample is included in the repo:
+
+- **Source (raw):** [Chicago Food Inspections – data.gov](https://catalog.data.gov/dataset/food-inspections)  
+- **Cleaned dataset (Excel, Power Query applied):** [Download from Google Drive](https://docs.google.com/spreadsheets/d/16HSVtSfkZONfEYey5Xz9qvszhFMYntqP/edit?usp=drive_link&ouid=113075384481316767088&rtpof=true&sd=true)  
