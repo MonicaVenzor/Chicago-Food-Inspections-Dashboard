@@ -1,0 +1,38 @@
+Chicago Food Inspections – Quick Project Summary
+
+🔹 What I Did
+
+Worked with the Chicago Department of Public Health – Food Inspections dataset (~297k rows).
+
+Cleaned and standardized messy data using Excel Power Query (M language).
+
+Built pivot tables and charts in Excel to explore results, risks, and violations.
+
+Designed an interactive dashboard in Power BI to highlight trends and key insights.
+
+
+🔹 Tools & Skills
+
+Excel / Power Query (M) → Data cleaning and transformation
+
+Power BI (DAX, Modeling, Visualization) → Dashboard building
+
+Data Storytelling → Turning raw inspections into actionable insights
+
+
+🔹 Key Insights
+
+Restaurants are the most inspected and show the highest share of failures.
+
+High Risk facilities account for ~74% of all failed inspections.
+
+Most inspections happen in Chicago, but suburbs like Evanston and Cicero also show patterns worth monitoring.
+
+Common violations relate to sanitation and temperature control.
+
+
+🔹 Why This Project Matters
+
+This project shows the full process:
+raw public data → cleaned dataset → analytical model → clear insights in a dashboard.
+It demonstrates not just technical skills, but also the ability to communicate findings clearly.
