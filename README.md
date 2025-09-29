@@ -89,11 +89,11 @@ The dashboard was designed to be **clean, modern, and easy to interpret**.
 ├── data/
 │ └── Food_Inspections_pvt.xlsx # Cleaned dataset
 ├── dashboard/
-│ ├── Food_Inspections_Dashboard.pbix # Power BI file
-│ ├── Food_Inspections_Dashboard.pdf # Exported report
-│ └── demo.gif # Short dashboard demo
-├── README.md # Full documentation (this file)
-└── SUMMARY.md # One-page project summary
+│ ├── Food_Inspections_Dashboard.pbix
+│ ├── Food_Inspections_Dashboard.pdf
+│ └── demo.gif
+├── README.md
+└── SUMMARY.md
 
 
 ---
@@ -101,7 +101,7 @@ The dashboard was designed to be **clean, modern, and easy to interpret**.
 ## 🚀 How to View  
 1. Open `Food_Inspections_pvt.xlsx` in Excel to see the cleaned dataset.  
 2. Open `Food_Inspections_Dashboard.pbix` in Power BI for the interactive dashboard.  
-3. Check `Food_Inspections_Dashboard.pdf` for a static version (ideal for recruiters).  
+3. Check `Food_Inspections_Dashboard.pdf` for a static version.
 4. Watch `demo.gif` for a quick preview.  
 
 ---
