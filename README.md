@@ -1,6 +1,6 @@
-# 🍽️ Chicago Food Inspections – Data Analytics Project  
+# Chicago Food Inspections – Data Analytics Project  
 
-## 📌 Quick Summary  
+## Quick Summary  
 This project explores **~297,000 food inspection records** from the City of Chicago.  
 I worked through the **entire analytics process**: cleaning messy raw data, transforming it for analysis, and building an **interactive dashboard** to highlight key insights.  
 
@@ -8,11 +8,11 @@ I worked through the **entire analytics process**: cleaning messy raw data, tran
 - Created exploratory analysis with **PivotTables and PivotCharts**  
 - Built a **Power BI dashboard** with filters, KPIs, and visuals for storytelling  
 
-🔗 Dataset: [Chicago Food Inspections – data.gov](https://catalog.data.gov/dataset/food-inspections)  
+ Dataset: [Chicago Food Inspections – data.gov](https://catalog.data.gov/dataset/food-inspections)  
 
 ---
 
-## 🗂️ Dataset  
+## Dataset  
 - **Source:** Public dataset from the Chicago Department of Public Health  
 - **Size:** ~297,000 rows  
 - **Key fields:**  
@@ -26,7 +26,7 @@ I worked through the **entire analytics process**: cleaning messy raw data, tran
 
 ---
 
-## 🧹 Data Cleaning – Excel Power Query (M)  
+## Data Cleaning – Excel Power Query (M)  
 The raw data had plenty of issues: typos, inconsistent categories, duplicates, and free-text violations.  
 
 **Steps I took:**  
@@ -39,7 +39,7 @@ The raw data had plenty of issues: typos, inconsistent categories, duplicates, a
 
 ---
 
-## 📊 Data Modeling – Power BI  
+## Data Modeling – Power BI  
 - Added a **Date Table** for time intelligence  
 - Built DAX measures:  
   - Total inspections  
@@ -51,7 +51,7 @@ The raw data had plenty of issues: typos, inconsistent categories, duplicates, a
 
 ---
 
-## 📈 Dashboard Highlights  
+## Dashboard Highlights  
 The dashboard was designed to be **clean, modern, and easy to interpret**.  
 
 ### KPIs  
@@ -76,7 +76,7 @@ The dashboard was designed to be **clean, modern, and easy to interpret**.
 
 ---
 
-## 🔑 Key Insights  
+## Key Insights  
 - **Restaurants** dominate both inspections and failures.  
 - **High Risk facilities** drive ~74% of all failures.  
 - Most inspections happen in **Chicago**, but suburbs like Evanston and Cicero also show relevant patterns.  
@@ -85,7 +85,7 @@ The dashboard was designed to be **clean, modern, and easy to interpret**.
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 
 Chicago-Food-Inspections-Dashboard/
 │
@@ -105,7 +105,7 @@ Chicago-Food-Inspections-Dashboard/
 
 ---
 
-## 🚀 How to View  
+## How to View  
 1. Open `Food_Inspections_pvt.xlsx` in Excel to see the cleaned dataset.  
 2. Open `Food_Inspections_Dashboard.pbix` in Power BI for the interactive dashboard.  
 3. Check `Food_Inspections_Dashboard.pdf` and `Food_Inspections_Dashboard_Filter.pdf` for a static version.
@@ -113,7 +113,7 @@ Chicago-Food-Inspections-Dashboard/
 
 ---
 
-## 🛠 Tools & Skills Used  
+## Tools & Skills Used  
 - **Excel Power Query (M):** Data cleaning & transformation  
 - **Power BI (DAX, Modeling, Visualization):** Dashboard building  
 - **PivotTables & PivotCharts:** Exploratory analysis  
@@ -121,18 +121,9 @@ Chicago-Food-Inspections-Dashboard/
 
 ---
 
-## 👩‍💻 About Me  
-I’m building my **Data Analyst portfolio** with real-world datasets to showcase:  
-- Strong data cleaning and transformation skills  
-- Ability to design dashboards with clear insights  
-- Focus on communicating findings in a simple, professional way  
+## About
 
-📧 Email: venzorcame@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/monicavenzor
-💻 GitHub: https://github.com/MonicaVenzor
-
----
-
-👉 This project reflects the **full data analytics workflow**:  
-messy raw data → cleaned & structured dataset → analytical model → clear dashboard with insights.  
+Mónica Venzor · Data professional based in Monterrey, México.  
+[LinkedIn](https://www.linkedin.com/in/monicavenzor/) · 
+[GitHub](https://github.com/MonicaVenzor) · mvenzor.data@gmail.com
 
